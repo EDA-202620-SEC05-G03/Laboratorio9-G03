@@ -21,7 +21,8 @@ def new_map(num_elements, load_factor, prime=109345121):
         'table': table,
         'current_factor': 0,
         'limit_factor': load_factor,
-        'size': 0
+        'size': 0,
+        'type': "PROBING"
     }
     
     return tabla
