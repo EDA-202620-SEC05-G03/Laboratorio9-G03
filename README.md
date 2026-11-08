@@ -1,10 +1,10 @@
 # Laboratorio 9
 
-[![Contributors][laboratorio-9-contributors-shield]][laboratorio-9-contributors-url]
-[![Forks][laboratorio-9-forks-shield]][laboratorio-9-forks-url]
-[![Stargazers][laboratorio-9-stars-shield]][laboratorio-9-stars-url]
-[![Issues][laboratorio-9-issues-shield]][laboratorio-9-issues-url]
-[![License][laboratorio-9-license-shield]][laboratorio-9-license-url]
+[Contributors][laboratorio-9-contributors-url]
+[Forks][laboratorio-9-forks-url]
+[Stargazers][laboratorio-9-stars-url]
+[Issues][laboratorio-9-issues-url]
+[License][laboratorio-9-license-url]
 
 Este es el repositorio es para el noveno laboratorio. Su objetivo es enseñar a los alumnos cómo utilizar el ADT Colas de Prioridad, cómo configurarlo como una PQ y cómo integrarlo en la vista y lógica del curso.
 
@@ -14,21 +14,21 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 1. [Laboratorio 9](#laboratorio-9)
    1. [Miembros](#Miembros)
-   1. [Acerca del proyecto](#Acerca-del-proyecto)
+   2. [Acerca del proyecto](#Acerca-del-proyecto)
       1. [Estructura](#Estructura)
-   1. [Uso](#Uso)
-   1. [Contacto y Soporte](#Contacto-y-Soporte)
-   1. [Contribuir](#Contribuir)
-   1. [Licencia](#Licencia)
-   1. [Autores y Reconocimiento](#Autores-y-Reconocimiento)
+   3. [Uso](#Uso)
+   4. [Contacto y Soporte](#Contacto-y-Soporte)
+   5. [Contribuir](#Contribuir)
+   6. [Licencia](#Licencia)
+   7. [Autores y Reconocimiento](#Autores-y-Reconocimiento)
 
 ## Miembros
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1. Nombre del estudiante No. 1, Correo electrónico del estudiante No. 1 Uniandes, Funcionalidad propiedad del estudiante No. 1.
-1. Nombre del estudiante No. 2, Correo electrónico del estudiante No. 2 Uniandes, Funcionalidad propiedad del estudiante No. 2.
-1. Nombre del estudiante No. 3, Correo electrónico del estudiante No. 3 Uniandes, Funcionalidad propiedad del estudiante No. 3.
+1. Jimmy Alejandro Mujica Delgado, 202224528, j.mujicad@uniandes.edu.co
+2. Samuel Esteban Diaz Arias, 202522112, se.diaza12@uniandes.edu.co
+3. Nombre del estudiante No. 3, Correo electrónico del estudiante No. 3 Uniandes, Funcionalidad propiedad del estudiante No. 3.
 
 [Volver al inicio](#laboratorio-9)
 
@@ -45,9 +45,9 @@ Este repositorio plantilla se usa en los laboratorios del curso de estructuras d
 Este repositorio de laboratorio tiene cuatro partes principales:
 
 1. [DataStructures:](./DataStructures) Carpeta con la estructura base para el desarrollo de las estructura de los estudiantes. Para obtener más información sobre su implementación, visite el [Data Structures Documentation][data-struc-url].
-1. [App:](./App) Carpeta con los scripts de Python para ejecutar la aplicación. Aquí los estudiantes implementan su código para completar las instrucciones de laboratorio.
-1. [Data:](./Data) Carpeta con archivos de datos CSV para cargar en la aplicación. Aquí los estudiantes agregan los archivos de datos proporcionados por el personal del curso para completar el laboratorio.
-1. [Docs:](./Docs) Carpeta con el informe, tabla de datos y otra documentación. Aquí los estudiantes agregan su informe de proyecto, tablas de datos y otros archivos para complementar su implementación de código.
+2. [App:](./App) Carpeta con los scripts de Python para ejecutar la aplicación. Aquí los estudiantes implementan su código para completar las instrucciones de laboratorio.
+3. [Data:](./Data) Carpeta con archivos de datos CSV para cargar en la aplicación. Aquí los estudiantes agregan los archivos de datos proporcionados por el personal del curso para completar el laboratorio.
+4. [Docs:](./Docs) Carpeta con el informe, tabla de datos y otra documentación. Aquí los estudiantes agregan su informe de proyecto, tablas de datos y otros archivos para complementar su implementación de código.
 
 [Volver al inicio](#laboratorio-9)
 
@@ -57,7 +57,7 @@ Para usar esta plantilla, debe seguir los pasos a continuación:
 
 - Lea las instrucciones oficiales de laboratorio publicadas en el sitio oficial del curso en [BrightSpace][BrightSpace-url].
 - Distribuir las tareas de laboratorio entre los miembros del grupo.
-- Descargue el conjunto de datos oficial del laboratorio desde el sitio oficial del curso en [BrightSpace] [BrightSpace-url].
+- Descargue el conjunto de datos oficial del laboratorio desde el sitio oficial del curso en [BrightSpace] [BrightSpace-url][BrightSpace-url].
 - Descomprima y cargue el conjunto de datos en la aplicación en la carpeta [Data](./Data).
 - Implemente las funciones que faltan de acuerdo con las instrucciones de laboratorio en los scripts MVC en la carpeta [App](./App).
 - Complete el informe de laboratorio, registre sus pruebas y análisis en los documentos en la carpeta [Docs](./Docs) de acuerdo con las instrucciones (El informe **DEBE SER** en formato PDF).
